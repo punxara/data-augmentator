@@ -1,0 +1,1 @@
+A python notebook to augment image data of your choice. Simply update the orignal data path from Google Drive and set a Google Drive path and a folder name of your choice to save the newly augmented data.
